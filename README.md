@@ -1,2 +1,2 @@
 # tiago
-An iOS application over a swift server
+A swift server
